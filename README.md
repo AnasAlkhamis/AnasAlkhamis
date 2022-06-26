@@ -7,7 +7,8 @@
   <a href="https://portfolio-anas-portfolio.vercel.app/welcome"><img src="https://img.shields.io/badge/<A/> Portfolio-003545?style=for-the-badge"></a>
   
   <h1>My experience</h1> 
-  
+    <br/>
+    <span>
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
