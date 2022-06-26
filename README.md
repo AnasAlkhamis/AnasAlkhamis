@@ -1,7 +1,5 @@
 ### Hi there I'am Anas👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlkhamis&layout=compact)](https://github.com/AnasAlkhamis/github-readme-stats)
-
    <h1>Contact Me</h1>   <br/>
 <a href="https://www.linkedin.com/in/anas-al-khamis-855ab4232/">
 <img src="https://img.shields.io/badge/Linkedin-%23039BE5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"></a>
