@@ -1,6 +1,6 @@
 ### Hi there I'am Anas👋
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4-AnasAlkhamis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlkhamis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
    <h1>Contact Me</h1>   <br/>
 <a href="https://www.linkedin.com/in/anas-al-khamis-855ab4232/">
